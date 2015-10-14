@@ -1,3 +1,9 @@
 [submodule "information-security"]
 	path = information-security
 	url = https://ifokeev@github.com/IU7Abyss/Information-Security.git
+[submodule "philosophy"]
+	path = philosophy
+	url = https://ifokeev@github.com/IU7Abyss/philosophy
+[submodule "jurisprudence"]
+	path = jurisprudence
+	url = https://ifokeev@github.com/IU7Abyss/jurisprudence.git
