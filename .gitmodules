@@ -7,3 +7,6 @@
 [submodule "jurisprudence"]
 	path = jurisprudence
 	url = https://ifokeev@github.com/IU7Abyss/jurisprudence.git
+[submodule "modeling"]
+	path = modeling
+	url = https://ifokeev@github.com/IU7Abyss/Scientific-Modelling-LW-2.git
